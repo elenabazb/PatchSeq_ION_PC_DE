@@ -33,6 +33,9 @@ The analysis workflow includes:
 
 
 ## Data availability 
-The count matrices and cell metadata required to reproduce this analysis will be available from the associated data repository:
+The sequencing count matrices and cell metadata are maintained separately
+from this analysis repository.
 
-Data repository: E-MTAB-17525
+The count matrices and cell metadata required to reproduce this analysis will be available from the associated data repository (in ArrayExpress under accession E-MTAB-17525).
+The dataset is currently private and will be made publicly available upon publication of the associated study.
+
