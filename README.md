@@ -13,7 +13,7 @@ The analysis compares two developmental groups, referred to as Young and Old in 
 
 
 ## Citation
-This script was used to generate analysis and figures in the following publication: 
+This script was used to generate analysis and figures in the following publication: [under preparation].
 
 
 ## Analysis overview
@@ -33,10 +33,6 @@ The analysis workflow includes:
 
 
 ## Data availability 
-The data repository is currently under preparation.
-
 The count matrices and cell metadata required to reproduce this analysis will be available from the associated data repository:
 
-Data repository: [ADD DATA REPOSITORY LINK]
-Version or release: [ADD VERSION]
-DOI: [ADD DOI WHEN AVAILABLE]
+Data repository: E-MTAB-17525
