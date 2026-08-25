@@ -1,16 +1,9 @@
 # Input data
 
-The data repository is currently under preparation.
-
-
-
 The sequencing count matrices and cell metadata are maintained separately
 from this analysis repository.
 
-The files are available from:
-
-- Data repository: [repository link]
-- Release/version: [version or DOI]
+Datasets have been deposited in ArrayExpress under accession E-MTAB-17525. The dataset is currently private and will be made publicly available upon publication of the associated study.
 
 
 ## Required files
